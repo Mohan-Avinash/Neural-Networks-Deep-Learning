@@ -39,4 +39,4 @@ The code is written in Python using TensorFlow and is provided in Jupyter Notebo
 ## Video Submission
 
 Video demonstrating the code and explaining the results.
-[Video Link:]()
+[Video Link:](https://drive.google.com/file/d/1E-cq4iMLi2iEvougmnsLAVFuEqdH3RJO/view?usp=sharing)
